@@ -26,7 +26,7 @@ Here are some good values to use:
   
  2)
  
-     >(0,1] - 68.26%   (on this setup, in this range the chance become slightly uniform) - Avg = 0.673
+     >(0,1] - 68.26%   (in this setup, in this range the chance become slightly uniform) - Avg = 0.673
      
      >(1,2] - 27.20%
      
@@ -39,9 +39,9 @@ Here are some good values to use:
   
   z = 0.3373
   
-   2)
+   3)
  
-     >(0,1] - 68.26%   (on this setup, in this range the chance become slightly uniform) - Avg = 0.725
+     >(0,1] - 68.26%   (in this setup, chances for numbers too large decreases drastically) - Avg = 0.725
  
   l = 0.15915
   
