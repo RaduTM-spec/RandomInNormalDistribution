@@ -12,7 +12,7 @@ Here are some good values to use:
 
 1)
 
-     >(0,1] - 50.00%
+     >(0,1] - 50.00%                  - AVG = 1.065
      
      >(1,2] - 43.70%  
      
@@ -26,7 +26,7 @@ Here are some good values to use:
   
  2)
  
-     >(0,1] - 68.26%   (on this setup, in this range the chance become slightly uniform)
+     >(0,1] - 68.26%   (on this setup, in this range the chance become slightly uniform) - Avg = 0.673
      
      >(1,2] - 27.20%
      
