@@ -39,6 +39,17 @@ Here are some good values to use:
   
   z = 0.3373
   
+   2)
+ 
+     >(0,1] - 68.26%   (on this setup, in this range the chance become slightly uniform) - Avg = 0.725
+ 
+  l = 0.15915
+  
+  k = 2
+  
+  z = 0.3373
+  
+  
   l - decrease the input range (for l = 0.15915 the input range is [0,1]
   
   k - decrease the chance of large number 
