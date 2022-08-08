@@ -9,6 +9,7 @@ In order to get random numbers, you must adjust variables k, l and z depending o
 ![formula](formula.png)
 
 Here are some good values to use:
+
 1)
 
      >(0,1] - 50.00%
@@ -16,8 +17,7 @@ Here are some good values to use:
      >(1,2] - 43.70%  
      
     >(2,+inf) -  6.30%
-  
-  
+ 
   l = 0.15915
   
   k = 2
