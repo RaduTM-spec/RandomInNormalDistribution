@@ -40,10 +40,12 @@ Here are some good values to use:
   z = 0.3373
   
   l - decrease the input range (for l = 0.15915 the input range is [0,1]
+  
   k - decrease the chance of large number 
     - decrease the chance of small numbers
     - chance of 1 remains still, regardles of any modifier
     - by decrease, the chance in range [0,1] becomes uniform/liniar
+    
   z - increase the change of large numbers
   
     
