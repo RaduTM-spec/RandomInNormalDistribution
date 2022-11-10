@@ -1,11 +1,11 @@
 # NormalDistributionNumGet
 https://www.desmos.com/calculator/kuntqqemss
 
-An attempt of getting random numbers from Normal Distribution (sigma = 1, mu = 0) without calling to Box-Muller method.
+An attempt of getting random numbers from Normal Distribution (sigma = 1, mu = 0) without calling the Box-Muller method with a custom deviation.
 
 ![Sample](Sample.png)
 
-In order to get random numbers, you must adjust variables k, l and z depending on your needs from the formula:
+In order to get random numbers, you must adjust variables k, l and z depending on your needs (test on the upper link in desmos) from the formula:
 ![formula](formula.png)
 
 Here are some good values to use:
